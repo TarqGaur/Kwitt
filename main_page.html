@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+    <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/live/3.1/firebase.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style_2.css">
+    <script src="new.js"></script>
+
+</head>
+
+<body onload="load()">
+    <center>
+        <div id="ad1">
+            <h3 id="user">User: </h3>
+        </div>
+
+        <div id="ad2">
+            <button id="logout" onclick="logout()">Logout</button>
+        </div>
+        <br>
+        <input type="text" placeholder="Name of the room" id="input">
+        <button id="find" onclick="add_room()"> ADD ROOM</button>
+
+        <div id="index">ROOM NAMES</div>
+    </center>
+
+</body>
+
+</html>
