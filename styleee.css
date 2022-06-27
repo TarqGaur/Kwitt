@@ -1,0 +1,60 @@
+#ad1 {
+    float: right;
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+}
+
+#ad2 {
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+#logout {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#user {
+    font-weight: bold;
+}
+
+#output {
+    width: 60%;
+    height: 50%;
+    border-style: groove;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#holder{
+    width: 40%;
+    height: 50px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: black;
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+#button_{
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+font-weight: bold;
+border-style: dashed;
+    border-width: 5px;
+    border-color: black;
+    margin-left: 5px;
+}

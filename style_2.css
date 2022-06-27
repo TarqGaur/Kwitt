@@ -1,0 +1,63 @@
+#input {
+    margin-top: 50px;
+    font-size: 20px;
+    width: 500px;
+    height: 40px;
+    margin-left: 10%;
+}
+
+#logout {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+body {
+    text-align: center;
+}
+
+#ad1 {
+    float: right;
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+#ad2 {
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+#find{
+    width: 200px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#index{
+    width: 60%;
+    height: 40%;
+    border-style:groove;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    margin-top:80px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#user{
+font-weight: bold ;
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
